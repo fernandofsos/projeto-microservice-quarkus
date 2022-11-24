@@ -1,0 +1,13 @@
+
+#comando para executar o projeto
+./mvnw quarkus:dev
+
+www.graalvm.org
+  donwload
+
+#utilizando gaalvm
+
+
+
+
+
